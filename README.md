@@ -20,7 +20,7 @@ PCD designed in KiCad and ordered from JLCPCB. Design files in project repositor
 
 
 ## Reflections
-This was a really fun project, as it was quite easy to design and put more emphasis on the software. 
+This was a really fun project, as the hardware was quite simple and I had to put more emphasis on the software. 
 The end product is not that practical as it requires a PC to run the script, but I got to learn more about digital electronics through this project.  
 The most labour-intensive part was displaying the temperature values on the display. Becaues I made the decision to not use any libraries for this, I had to dig into how the LCD-logic works,
  and which bytes correspond to which characters. 
