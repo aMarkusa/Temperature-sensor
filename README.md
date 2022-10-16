@@ -10,7 +10,7 @@ A python script (implemented with micropython) running on the host PC reads the 
 PCD designed in KiCad and ordered from JLCPCB. Design files in project repository.
 
 ### BOM
-BOM is found in the [design files](https://github.com/aMarkusa/Temperature-sensor-2021/tree/main/Design%20files) directory
+BOM is found in the [design files](https://github.com/aMarkusa/Temperature-sensor-2021/tree/main/Design%20files) directory.
 
 
 ## Reflections
