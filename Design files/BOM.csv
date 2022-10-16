@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"USB307530A";1;"USB3075-30-A";;;
+2;"";"PinHeader_1x04_P2.54mm_Vertical";1;"GPIO";;;
+3;"";"PinHeader_1x02_P2.54mm_Vertical";1;"TMP101 MCUPWR";;;
+4;"";"PinHeader_1x02_P2.54mm_Vertical";1;"TMP101 USBPWR";;;
+5;"IC1";"TSSOP-14_4.4x5mm_P0.65mm";1;"MCP2221A-I_ST";;;
+6;"";"PinHeader_1x03_P2.54mm_Vertical";1;"I2C AL";;;
+7;"R1";"R_0603_1608Metric";1;"R";;;
+8;"U1";"SOT-23-6";1;"TMP101NA_3K";;;
+9;"R4,R3,R2";"R_0603_1608Metric";3;"5k";;;
+10;"C3";"C_0603_1608Metric";1;"0.01u";;;
+11;"C2,C1";"C_0603_1608Metric";2;"470n";;;
