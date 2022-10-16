@@ -10,13 +10,7 @@ A python script (implemented with micropython) running on the host PC reads the 
 PCD designed in KiCad and ordered from JLCPCB. Design files in project repository.
 
 ### BOM
-- USB3075-30-A micro-USB connector
-- MCP2221A USB to I2C converter
-- TMP101 temperature sensor
-- 3x 5k resistor
-- 2x 470nF capacitor
-- 1x 10nF capacitor
-- 2.54mm pinheaders
+BOM is found in the [design files](https://github.com/aMarkusa/Temperature-sensor-2021/tree/main/Design%20files) directory
 
 
 ## Reflections
